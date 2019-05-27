@@ -1,0 +1,25 @@
+{
+  "name": "starter-pack",
+  "version": "1.0.0",
+  "description": "Bootstrap4",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "Cyprian",
+  "license": "MIT",
+  "dependencies": {
+    "@types/browser-sync": "0.0.42",
+    "@types/gulp": "^4.0.5",
+    "@types/gulp-sass": "0.0.31",
+    "bootstrap": "4.0.0-beta",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.6"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^3.8.11",
+    "gulp-sass": "^4.0.2"
+  }
+}
